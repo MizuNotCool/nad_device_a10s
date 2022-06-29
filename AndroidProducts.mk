@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_a10s.mk
+    $(LOCAL_DIR)/nad_a10s.mk
