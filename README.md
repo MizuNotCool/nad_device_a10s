@@ -1,4 +1,4 @@
-# Device Tree for Samsung Galaxy A10s
+# NusantaraProject Device Tree for Samsung Galaxy A10s
 Based from A107FXXU8BUC2 XID Firmware
 
 Device Codename : a10sxx
